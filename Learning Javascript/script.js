@@ -10,4 +10,4 @@
 // console.log(rno)
 console.log('Coming from the console.log');
 
-
+console.clear();
