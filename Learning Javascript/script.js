@@ -11,3 +11,6 @@
 console.log('Coming from the console.log');
 
 console.clear();
+let cartQuantity=0;
+
+document.querySelector('#cartsummary').innerText=`Your cart has ${cartQuantity} items`;
